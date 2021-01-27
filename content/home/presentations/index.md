@@ -32,9 +32,7 @@ weight = 60
   text_color_light = true
 +++
 
-2018 [OpenCon switzerland](https://openconswiss.github.io/) - [Code sharing and review in the open with rOpenSci](https://www.slideshare.net/jgustavsen/code-sharing-and-review-in-the-open-with-ropensci-115742181) 
-Bern, Switzerland
+2021 [Regional Conference in Civil Engineering & Sustainable Development Goals in Higher Education Institutions 2020](https://www.utm.my/sustainable/rccesdgs2020/). Oral Presentation: "Sensitivity of Major Crop Yields to Meteorological Drought in Asia-Pacific Region During the Last Decades". January 23-24, 2021. Malaysia (virtual).
 
-2016 [International Society for Microbial Ecology](https://www.isme-microbes.org/isme16): Oral presentation: "Network analysis reveals the strong role of the environment in structuring microbial communities in a estuarine environment "
-Poster presentation: Phylogenetic dynamics of marine viruses and their putative hosts"
-Montreal,PQ, Canada
+2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai,Japan.
+
