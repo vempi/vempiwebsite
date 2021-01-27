@@ -1,9 +1,9 @@
 +++
-title = "High temporal and spatial diversity in marine RNA viruses implies that they have an important role in mortality and structuring plankton communities"
-date = 2014-12-15T00:00:00
+title = "Developing flood vulnerability curve for rice crop using remote sensing and hydrodynamic modeling"
+date =  2021-01-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Gustavsen, Julia A** and Winget, Danielle M and Tian, Xi and Suttle, Curtis A"]
+authors = ["Vempi Satriya Adi Hendrawan","Daisuke Komori"]
 
 # Publication type.
 # Legend:
@@ -17,24 +17,24 @@ authors = ["**Gustavsen, Julia A** and Winget, Danielle M and Tian, Xi and Suttl
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Frontiers in Microbiology. 5:703"
+publication = "International Journal of Disaster Risk Reduction"
 publication_short = ""
 
 # Abstract.
-abstract = "Viruses in the order Picornavirales infect eukaryotes, and are widely distributed in coastal waters. Amplicon deep-sequencing of the RNA dependent RNA polymerase (RdRp) revealed diverse and highly uneven communities of picorna-like viruses in the coastal waters of British Columbia (B.C.), Canada. Almost 300 000 pyrosequence reads revealed 145 operational taxonomic units (OTUs) based on 95% sequence similarity at the amino-acid level. Each sample had between 24 and 71 OTUs and there was little overlap among samples. Phylogenetic analysis revealed that some clades of OTUs were only found at one site; whereas, other groups included OTUs from all sites. Since most of these OTUs are likely from viruses that infect eukaryotic phytoplankton, and viral isolates infecting phytoplankton are strain-specific; each OTU probably arose from the lysis of a specific phytoplankton taxon. Moreover, the patchiness in OTU distribution, and the high turnover of viruses in the mixed layer, implies continuous infection and lysis by RNA viruses of a diverse array of eukaryotic phytoplankton taxa. Hence, these viruses are likely important elements structuring the phytoplankton community, and play a significant role in nutrient cycling and energy transfer."
+abstract = "The use of flood damage functions, or vulnerability curves, as a relationship between the intensity of the process (hazard) and the degree of potential loss of the exposed elements plays an important role in flood risk assessment. In terms of disaster risk reduction, a vulnerability curve is a helpful tool to quickly evaluate loss and conduct immediate decision making. This study proposes flood vulnerability curves for rice crop using crop yield loss estimated by crop statistics and remote-sensing modeling as a loss indicator. Flood parameters (depth, velocity, and duration) were simulated using a hydrodynamic model. Thus, the degree of crop yield loss and flood characteristics could be compared to derive vulnerability curves. In this study, we used a case study of the 2007 flood in the Solo river basin of Indonesia. Our results show that the relationship between the intensity of flood parameters and the degree of rice crop yield loss fits logarithmic regression functions, where water depth is considered the most significant parameter in loss estimation. Moreover, the minimum values of water depth, flow velocity, and duration relationship, that induce loss are 0.2 m, 0.03 m/s, and 8 days, respectively, while the maximum values, that induce complete yield loss, are 5.2 m, 0.08 m/s, and 22 days. This study’s framework can be potentially used to obtain flood vulnerability curve or flood damage function, particularly for data-scarce regions."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.3389/fmicb.2014.00703"
+doi = "https://doi.org/10.1016/j.ijdrr.2021.102058"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["crop yield loss", "flood", remote sensing", "vulnerability curve"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,9 +53,9 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.frontiersin.org/articles/10.3389/fmicb.2014.00703/pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2212420921000248/pdfft?md5=842476a638755d2d80c49a869eb95cf1&pid=1-s2.0-S2212420921000248-main.pdf"
 url_preprint = ""
-url_code = "https://zenodo.org/record/12509"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -78,5 +78,5 @@ math = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Right"
 +++
