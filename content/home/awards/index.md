@@ -6,7 +6,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Presentations"
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -32,7 +32,16 @@ weight = 60
   text_color_light = true
 +++
 
-2021 [Regional Conference in Civil Engineering & Sustainable Development Goals in Higher Education Institutions 2020](https://www.utm.my/sustainable/rccesdgs2020/). Oral Presentation: "Sensitivity of Major Crop Yields to Meteorological Drought in Asia-Pacific Region During the Last Decades". January 23-24, 2021. Malaysia (virtual).
+2020 Travel Grants 200,000 JPY. Graduate School of Environmental Studies, Tohoku University, Japan.
 
-2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai,Japan.
+2019 Japanese Government (MEXT) Scholarship for Doctoral Graduate Program. Tohoku University, Japan.
 
+2019 [Professional Master for Sustainable Environment (PMSE)] (http://www.kankyo.tohoku.ac.jp/ielp/ielp/). The International Environmental Leadership Program (IELP) Graduate School of Environmental Studies. Tohoku University, Japan.
+
+2019 [Best Poster Award in AsiaPEX Kick-off Conference 2019](http://iceds.cc.kagawa-u.ac.jp/asiapex/pages/conf1/). Title: "Assessing flood hazard and crop yield loss relationship using hydrodynamic simulation and remote-sensing data: an alternative approach for data-scarce regions". 28-30 August, 2019. Sapporo, Hokkaido, Japan.
+
+2017 Japanese Government (MEXT) Scholarship for Master Graduate Program. Tohoku University, Japan.
+
+2016 Cumlaude graduate Bachelor of engineering (Civil Engineering). Universitas Gadjah Mada, Indonesia.
+
+2013 Samsung Electronics Full Scholarship for Undergraduate Program. Universitas Gadjah Mada, Indonesia.
