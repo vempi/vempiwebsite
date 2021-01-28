@@ -10,7 +10,7 @@ title = "Other Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 200
+weight = 115
 
 # Background (optional).
 #   Choose from a background color, gradient, or image.
