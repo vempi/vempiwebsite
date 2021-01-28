@@ -34,15 +34,15 @@ weight = 200
 
 ## Language skills
 
-1. Native: Indonesian
-2. Academic: English
-3. Basic reading knowledge: Arabic
-4. Some knowledge: Japanese
+* Native: Indonesian
+* Academic: English
+* Basic reading knowledge: Arabic
+* Some knowledge: Japanese
 
 ***
 
 ## Digital tools
-1. Operating systems: Windows, Linux (Ubuntu)
-2. Website hosting: WordPess, Blogspot, Hugo/Netlify
-3. Coding: Python (intermediate), R (intermediate), HTML (basic), fortran (some knowledge)
-4. Others: CorelDraw (intermediate), Inkscape(intermediate), Adobe Premier(intermediate), Adobe Photoshop(intermediate)
+* Operating systems: Windows, Linux (Ubuntu)
+* Website hosting: WordPess, Blogspot, Hugo/Netlify
+* Coding: Python (intermediate), R (intermediate), HTML (basic), fortran (some knowledge)
+* Others: CorelDraw (intermediate), Inkscape(intermediate), Adobe Premier(intermediate), Adobe Photoshop(intermediate)
