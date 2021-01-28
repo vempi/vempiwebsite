@@ -14,7 +14,7 @@ share = false
 
 2019 Japanese Government (MEXT) Scholarship for Doctoral Graduate Program. Tohoku University, Japan.
 
-2019 [Professional Master for Sustainable Environment (PMSE)] (http://www.kankyo.tohoku.ac.jp/ielp/ielp/). The International Environmental Leadership Program (IELP) Graduate School of Environmental Studies. Tohoku University, Japan.
+2019 [Professional Master for Sustainable Environment (PMSE)](http://www.kankyo.tohoku.ac.jp/ielp/ielp/). The International Environmental Leadership Program (IELP) Graduate School of Environmental Studies. Tohoku University, Japan.
 
 2019 [Best Poster Award in AsiaPEX Kick-off Conference 2019](http://iceds.cc.kagawa-u.ac.jp/asiapex/pages/conf1/). Title: "Assessing flood hazard and crop yield loss relationship using hydrodynamic simulation and remote-sensing data: an alternative approach for data-scarce regions". 28-30 August, 2019. Sapporo, Hokkaido, Japan.
 
