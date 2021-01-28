@@ -1,6 +1,6 @@
 +++
 title = "Thoughts on creating this website"
-subtitle = "What worked and what didn't in the process of creating my website based on a Hugo theme"
+subtitle = "A post trial from [https://www.juliagustavsen.com/] (https://www.juliagustavsen.com/)"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -114,3 +114,15 @@ Before this, I did not know anything about [submodules in git](https://git-scm.c
 8.  I also wanted to change the default website icon (which is seen in the left-hand part of the web browser tab) from the academic theme "A" to something more personalized for my site. To do this I followed the instructions on the [theme website](ttps://sourcethemes.com/academic/docs/customization/#website-icon) which instructed me to have a 16x16 pixel icon as icon.png and another 192x192 pixel icon as icon-192.png in the root static/img folder. I created my icons in Illustrator and placed the icons in static/img, but I was not able to change the website icon this way. Based on a [github issue](https://github.com/gcushen/hugo-academic/issues/454) I saw that what could work was creating a public/img folder from my website root and putting the icons there. This worked!
 9. Since working on this blog post I found that the fonts were too large for me, so I scaled down the fonts by copying the font for the overall theme that I am using ("default", not "classic" or "playfair") from /themes/academic/data/fonts/default.toml to a new folder /data/fonts/default.toml. Here I changed the font size from 20 to 16 and the small font size from 16 to 14. 
 10. In the publication section for each individual publication there were multiple buttons for sharing  on twitter, reddit, facebook, etc. This didn't feel necessary to me  so in config/_default/params.toml I set ```sharing = false``` (by default it is set to true) which removed the buttons.
+
+## Future Improvements
+Currently there are still things that I would like to change and adapt for this website, but for now I am going to release it into the wild and come back to it later.
+
+- At a later date I would like to:
+    1. Improve the publication format. I find the information does not scan quickly.
+    2. Add some nice pictures to the site.
+    3. Update the presentation format so that it is a bit more structured. 
+
+## Conclusion:
+
+It was useful to create this website with a Hugo theme, however, for my specific desires, it was not as straightforward as I thought it would be, but I now have a website that I am happy with. I am very appreciative of all of the nice work that has gone into the Academic Hugo theme. 
