@@ -115,7 +115,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/vempi_"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "instagram", icon_pack = "fab", name = "Follow me on instagram", link = "https://instagram.com/vmpstry"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "http://disqus.com/by/disqus_Jgs0xAKQX4"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
