@@ -32,16 +32,16 @@ date_format = "Jan 2006"
   company_url = "https://ugm.ac.id/"
   location = "Yogyakarta, Indonesia"
   date_start = "2016-01-01"
-  date_end = "2016-06-31"
+  date_end = "2016-06-30"
   description = """Assisting water resources related project."""
   
-[[experience]]
-  title = "Administrative Assistant"
-  company = "Universitas Gadjah Mada"
-  company_url = "https://ugm.ac.id/"
-  location = "Yogyakarta, Indonesia"
-  date_start = "2016-01-01"
-  date_end = "2016-06-31"
-  description = """Document preparation for certification and project proposal."""
+#[[experience]]
+#  title = "Administrative Assistant"
+#  company = "Universitas Gadjah Mada"
+#  company_url = "https://ugm.ac.id/"
+#  location = "Yogyakarta, Indonesia"
+#  date_start = "2016-01-01"
+#  date_end = "2016-06-31"
+#  description = """Document preparation for certification and project proposal."""
 
 +++
