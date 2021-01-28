@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Bandung, Indonesia"
   date_start = "2016-07-01"
   date_end = "2017-01-01"
-  description = """Assisting hydrology and water resources modeling, analysis, and reporting."""
+  description = "Assisting hydrology and water resources modeling, analysis, and reporting."
  
 [[experience]]
   title = "Project assistant"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Yogyakarta, Indonesia"
   date_start = "2016-01-01"
   date_end = "2016-06-31"
-  description = """Assisting water resources related project."""
+  description = "Assisting water resources related project."
   
 [[experience]]
   title = "Administrative Assistant"
@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   location = "Yogyakarta, Indonesia"
   date_start = "2016-01-01"
   date_end = "2016-06-31"
-  description = """Document preparation for certification and project proposal"""
+  description = "Document preparation for certification and project proposal."
 
 +++
