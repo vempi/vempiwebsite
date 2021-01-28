@@ -10,20 +10,18 @@ share = false
 # caption = ""
 +++
 
-Daniel co-hosts [Everything Hertz](https://everythinghertz.com/), which is a podcast on methodology and scientific life in the biobehavioral sciences. Episodes are released on the first and third Monday of every month. 
+2020 Travel Grants 200,000 JPY. Graduate School of Environmental Studies, Tohoku University, Japan.
 
-He also hosts the [Physiology and Behavior](https://shows.acast.com/dsquintana) podcast, which features a mix of episodes on research that's catching his eye in biological psychology, interviews with other scientists, and Dan his day-to-day research process.  
+2019 Japanese Government (MEXT) Scholarship for Doctoral Graduate Program. Tohoku University, Japan.
 
-***
+2019 [Professional Master for Sustainable Environment (PMSE)] (http://www.kankyo.tohoku.ac.jp/ielp/ielp/). The International Environmental Leadership Program (IELP) Graduate School of Environmental Studies. Tohoku University, Japan.
 
-Daniel has also featured as a guest on several podcasts:
+2019 [Best Poster Award in AsiaPEX Kick-off Conference 2019](http://iceds.cc.kagawa-u.ac.jp/asiapex/pages/conf1/). Title: "Assessing flood hazard and crop yield loss relationship using hydrodynamic simulation and remote-sensing data: an alternative approach for data-scarce regions". 28-30 August, 2019. Sapporo, Hokkaido, Japan.
 
-- The ORION Open Science Podcast: [Life Sciences in the Fast Lane](https://www.podbean.com/media/share/pb-c4iuc-c94bcb?utm_campaign=au_share_ep&utm_medium=dlink&utm_source=au_share).
-- The PT Inquest podcast: [The science of science](https://ptpodcast.com/pt-inquest-episode-193-the-science-of-science/).
-- The STEMculture Podcast: [Reviews, Reviewers, and Rejections](https://www.stemculturepodcast.com/11_reviewsreviewersrejections/).
-- The Elite HRV podcast: [Mental Health, HRV & Antidepressants](https://elitehrv.com/mental-health-hrv-antidepressants-dan-quintana).
+2017 Japanese Government (MEXT) Scholarship for Master Graduate Program. Tohoku University, Japan.
 
+2016 Cumlaude graduate Bachelor of engineering (Civil Engineering). Universitas Gadjah Mada, Indonesia.
 
-
+2013 Samsung Electronics Full Scholarship for Undergraduate Program. Universitas Gadjah Mada, Indonesia.
 
 
