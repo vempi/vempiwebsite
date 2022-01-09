@@ -1,6 +1,6 @@
 +++
-title = "Mechanism of Rainfall Inundation Caused by the 2019 Typhoon Hagibis in Iwate prefecture coastal zone, Japan"
-date =  2020-12-20T00:00:00
+title = "A global-scale relationship between crop yield anomaly and multiscalar drought index based on multiple precipitation data"
+date =  2022-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vempi Satriya Adi Hendrawan","Wonsik Kim","Yoshiya Touge","Ke Shi","Daisuke Komori"]
