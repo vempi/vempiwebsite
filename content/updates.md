@@ -3,7 +3,7 @@ title = "Recent Updates"
 
 date = ""
 draft = false
-share = false
+share = true
 
 # [header]
 # image = ""
