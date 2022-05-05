@@ -32,7 +32,7 @@ weight = 60
   text_color_light = true
 +++
 
-2022 [The 9th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [proceeding PDF](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2021-9th.pdf). Poster Presentation: "Sensitivity of Major Crop Yields to Meteorological Drought in Asia-Pacific Region During the Last Decades". November 25 – 26, 2021. Japan (virtual).
+2022 [The 9th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2021-9th.pdf). Poster Presentation: "Sensitivity of Major Crop Yields to Meteorological Drought in Asia-Pacific Region During the Last Decades". November 25 – 26, 2021. Japan (virtual).
 
 2022 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2022](https://www.jsce.or.jp/branch/tohoku/info/giken/r3/). Oral Presentation: "Crop response pattern to different meteorological drought timescales: A global-scale analysis". March 5, 2022, Japan (virtual).
 
