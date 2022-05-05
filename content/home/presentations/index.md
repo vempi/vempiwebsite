@@ -42,7 +42,7 @@ weight = 60
 
 2021 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2021](https://www.jsce.or.jp/branch/tohoku/info/giken/r2/). Oral Presentation: "Global-Scale Evaluation of Different Precipitation Datasets Used in Developing Meteorological Drought Index for Agricultural Application the Last Decades". March 6, 2021. Tohoku University, Japan (virtual).
 
-2021 [Regional Conference in Civil Engineering & Sustainable Development Goals in Higher Education Institutions 2020](https://www.utm.my/sustainable/rccesdgs2020/). Oral Presentation: "Sensitivity of Major Crop Yields to Meteorological Drought in Asia-Pacific Region During the Last Decades". January 23-24, 2021. Malaysia (virtual).
+2021 [Regional Conference in Civil Engineering & Sustainable Development Goals in Higher Education Institutions 2020](https://www.utm.my/sustainable/rccesdgs2020/). Oral Presentation: "Crop Yields Anomaly due to Meteorological Drought in Asia during the Last Decades". January 23-24, 2021. Malaysia (virtual).
 
 2020 [The 8th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html). Poster Presentation: "Crop yield sensitivity to drought events: a global-scale analysis of major crops". November 13 – 14, 2020. Japan (virtual).
 
