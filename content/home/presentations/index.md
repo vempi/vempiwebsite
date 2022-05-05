@@ -46,18 +46,18 @@ weight = 60
 
 10. 2020 [The 8th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2020-8th+links.pdf#page=34). Poster Presentation: "Crop yield sensitivity to drought events: a global-scale analysis of major crops". November 13 – 14, 2020. Japan (virtual).
 
-9. 2020 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2020](https://www.jsce.or.jp/branch/tohoku/info/giken/r1/). Oral Presentation: "Determining Relationship of Crop Yield Change and Flood Stage Using Remote Sensing and Hydrodynamic Model: A Case Study of the 2007 Solo River Basin Flood". March 7, 2020. Akita University.
+9. 2020 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2020](https://www.jsce.or.jp/branch/tohoku/info/giken/r1/index.html). Oral Presentation: "Determining Relationship of Crop Yield Change and Flood Stage Using Remote Sensing and Hydrodynamic Model: A Case Study of the 2007 Solo River Basin Flood". March 7, 2020. Akita University.
 
 8. 2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2019-7th.pdf#page=43). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai Japan.
 
 7. 2019 [The 6th Environmental Technology and Management Conference (ETMC)](https://seed-net.org/wp-content/uploads/2019/11/Poster-ETMC.pdf). Oral Presentation: "Assessing Spatial Rice Crop Damage Due to Flood Hazard Using Remote Sensing: An Alternative Approach for Data-Scarce Regions". November 5– 7, 2019, Bali, Indonesia.
 
-6. 2019 [AsiaPEX Kick-off Conference 2019](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/). Poster presentation: "Assessing flood hazard and crop yield loss relationship using hydrodynamic simulation and remote-sensing data: an alternative approach for data-scarce regions". August 28– 30, 2019, Hokkaido University, Sapporo, Japan.
+6. 2019 [AsiaPEX Kick-off Conference 2019](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/index.html). Poster presentation: "Assessing flood hazard and crop yield loss relationship using hydrodynamic simulation and remote-sensing data: an alternative approach for data-scarce regions". August 28– 30, 2019, Hokkaido University, Sapporo, Japan.
 
 5. 2019 [Japan Agricultural Meteorological Society Tohoku Branch Conference 2019](https://kishosib.sakura.ne.jp/taikai.html) [[proceeding PDF]](https://kishosib.sakura.ne.jp/kaishi/kaishi64-read.pdf#page=29). Oral presentation: "Crop Yield Response to The Flood Hazard: An Insight From Remote Sensing". August 27, 2019, Iwate, Japan.
 
-4. 2019 [1st Academic Forum on Environmental Studies](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/). Poster Presentation: "Understanding Flood Impact Characteristic on Agricultural Crop Yield: Potential Use of Remote Sensing Data and Hydrodynamic Model". June 28, 2019, Tohoku University, Sendai, Japan.
+4. 2019 [1st Academic Forum on Environmental Studies](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/index.html). Poster Presentation: "Understanding Flood Impact Characteristic on Agricultural Crop Yield: Potential Use of Remote Sensing Data and Hydrodynamic Model". June 28, 2019, Tohoku University, Sendai, Japan.
 
-3. 2019 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2019](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/index.2. html). Oral Presentation: "Extreme Flood Impact Evaluation on Crop Yield Loss". March 2, 2019. Tohoku University (Kawauchi Campus).
+3. 2019 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2019](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/index.html). Oral Presentation: "Extreme Flood Impact Evaluation on Crop Yield Loss". March 2, 2019. Tohoku University (Kawauchi Campus).
 
 2. 2018 [The 6th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2018-6th.pdf). Poster presentation: "Remote estimation of rice crop yield using MODIS Vegetation Indices data: A case study of Solo river basin rice field, Indonesia". November 29-30, 2018. Sendai Japan.
