@@ -44,6 +44,9 @@ weight = 60
 
 2021 [Regional Conference in Civil Engineering & Sustainable Development Goals in Higher Education Institutions 2020](https://www.utm.my/sustainable/rccesdgs2020/). Oral Presentation: "Crop Yields Anomaly due to Meteorological Drought in Asia during the Last Decades". January 23-24, 2021. Malaysia (virtual).
 
-2020 [The 8th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html). Poster Presentation: "Crop yield sensitivity to drought events: a global-scale analysis of major crops". November 13 – 14, 2020. Japan (virtual).
+2020 [The 8th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2020-8th+links.pdf). Poster Presentation: "Crop yield sensitivity to drought events: a global-scale analysis of major crops". November 13 – 14, 2020. Japan (virtual).
 
-2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai Japan.
+2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2019-7th.pdf). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai Japan.
+
+2018 [The 6th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2018-6th.pdf). Poster presentation: "Remote estimation of rice crop yield using MODIS Vegetation Indices data: A case study of Solo river basin rice field, Indonesia". November 29-30, 2018. Sendai Japan.
+
