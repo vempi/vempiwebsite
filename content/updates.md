@@ -1,9 +1,9 @@
 +++
 title = "Recent Updates"
 
-date = ""
+date = "6 May, 2022"
 draft = false
-share = true
+share = false
 
 # [header]
 # image = ""
