@@ -56,7 +56,7 @@ weight = 60
 
 4. 2019 [Japan Agricultural Meteorological Society Tohoku Branch Conference 2019](https://kishosib.sakura.ne.jp/taikai.html) [[proceeding PDF]](https://kishosib.sakura.ne.jp/kaishi/kaishi64-read.pdf#page=29). Oral presentation: "Crop Yield Response to The Flood Hazard: An Insight From Remote Sensing". August 27, 2019, Iwate, Japan.
 
-3. 019 [1st Academic Forum on Environmental Studies](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/). Poster Presentation: "Understanding Flood Impact Characteristic on Agricultural Crop Yield: Potential Use of Remote Sensing Data and Hydrodynamic Model". June 28, 2019, Tohoku University, Sendai, Japan.
+3. 2019 [1st Academic Forum on Environmental Studies](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/). Poster Presentation: "Understanding Flood Impact Characteristic on Agricultural Crop Yield: Potential Use of Remote Sensing Data and Hydrodynamic Model". June 28, 2019, Tohoku University, Sendai, Japan.
 
 2. 2019 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2019](https://www.jsce.or.jp/branch/tohoku/info/giken/h30/index.2. html). Oral Presentation: "Extreme Flood Impact Evaluation on Crop Yield Loss". March 2, 2019. Tohoku University (Kawauchi Campus).
 
