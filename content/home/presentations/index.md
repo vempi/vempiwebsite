@@ -46,9 +46,9 @@ weight = 60
 
 10. 2020 [The 8th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2020-8th+links.pdf#page=34). Poster Presentation: "Crop yield sensitivity to drought events: a global-scale analysis of major crops". November 13 – 14, 2020. Japan (virtual).
 
-9. 2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2019-7th.pdf#page=43). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai Japan.
+9. 2020 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2020](https://www.jsce.or.jp/branch/tohoku/info/giken/r1/). Oral Presentation: "Determining Relationship of Crop Yield Change and Flood Stage Using Remote Sensing and Hydrodynamic Model: A Case Study of the 2007 Solo River Basin Flood". March 7, 2020. Akita University.
 
-8. 2020 [The Japan Society of Civil Engineers Tohoku Branch Technical Research Presentation 2020](https://www.jsce.or.jp/branch/tohoku/info/giken/r1/). Oral Presentation: "Determining Relationship of Crop Yield Change and Flood Stage Using Remote Sensing and Hydrodynamic Model: A Case Study of the 2007 Solo River Basin Flood". March 7, 2020. Akita University.
+8. 2019 [The 7th International Symposium on Water Environment Systems GP-RSS Tohoku University](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/GSsympo.html) [[proceeding PDF]](http://kaigan.civil.tohoku.ac.jp/HEST/GSsympo/2019-7th.pdf#page=43). Poster presentation: "Understanding flood hazard and crop yield loss relationship using hydrodynamic and remote sensing model". November 14 – 16, 2019. Sendai Japan.
 
 7. 2019 [The 6th Environmental Technology and Management Conference (ETMC)](https://seed-net.org/wp-content/uploads/2019/11/Poster-ETMC.pdf). Oral Presentation: "Assessing Spatial Rice Crop Damage Due to Flood Hazard Using Remote Sensing: An Alternative Approach for Data-Scarce Regions". November 5– 7, 2019, Bali, Indonesia.
 
