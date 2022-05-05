@@ -14,7 +14,7 @@ share = false
 Date | Activity
 -----|-----
 March 2022 | The Japan Society of Civil Engineers (JSCE) Tohoku branch conference 2022 (online)
-April 2022 | New publication published in Theoretical and Applied Climatology Springer (as a second author)
+April 2022 | New publication published in Theoretical and Applied Climatology Springer (as a second author) [access here](https://doi.org/10.1007/s00704-022-04063-y)
 April 2022 | Short visit to Institute for Agro-Environmental Sciences, The National Agriculture and Food Research Organization (NARO).
 April 2022 | Last presentation in joint doctoral seminar of hydro-environmental system laboratory and International Research Institute of Disaster Science group.
 
